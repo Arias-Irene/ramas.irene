@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 commit main
+=======
+commit hotfix 1.2
+>>>>>>> hotfix
 contador 1
