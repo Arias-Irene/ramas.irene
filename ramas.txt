@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 commit main
-contador 2
+contador 3
 =======
 commit hotfix 1.2
 >>>>>>> hotfix
