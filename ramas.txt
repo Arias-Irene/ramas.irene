@@ -6,3 +6,5 @@ commit feature2
 contador 2
 >>>>>>> feature2
 
+commit release
+contador 1
