@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 commit develop
 contador 4
+=======
+commit feature2
+contador 2
+>>>>>>> feature2
 
