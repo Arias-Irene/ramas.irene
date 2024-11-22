@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit main
 contador 3
 =======
@@ -7,7 +8,17 @@ commit hotfix 1.2
 >>>>>>> hotfix
 contador 1
 =======
+commit develop
+contador 4
+>>>>>>> release
+=======
 commit feature2
 contador 2
-
 >>>>>>> feature2
+
+<<<<<<< HEAD
+>>>>>>> feature2
+=======
+commit release
+contador 2
+>>>>>>> release
