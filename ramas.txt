@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit main
 contador 2
 =======
 commit hotfix 1.2
 >>>>>>> hotfix
 contador 1
+=======
+commit feature2
+contador 2
+
+>>>>>>> feature2
